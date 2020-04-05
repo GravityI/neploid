@@ -1,0 +1,21 @@
+{
+    "forest": 
+    [
+        {
+            "battler": "super rare",
+            "droprate": 0.05
+        },
+        {
+            "battler": "rare",
+            "droprate": 0.1
+        },
+        {
+            "battler": "uncommon",
+            "droprate": 0.39
+        },
+        {
+            "battler": "common",
+            "droprate": 0.595
+        }
+    ]
+}

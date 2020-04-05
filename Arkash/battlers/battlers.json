@@ -1,0 +1,90 @@
+{
+    "common":
+    {
+        "Fire Sprite":
+        {
+            "image": "IyqKOiM",
+            "attack": 50,
+            "health": 100,
+            "forgePoints": 50,
+            "rarity": "common",
+            "box": "Insects"
+        },
+        "Ant Egg":
+        {
+            "image": "rmIt522",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "common",
+            "box": "Insects"
+        },
+        "Red Egg":
+        {
+            "image": "2ornDWg",
+            "attack": 50,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "common",
+            "box": "Insects"
+        }
+    },
+    "uncommon":
+    {
+        "Cute Bunny":
+        {
+            "image": "qfxHZyK",
+            "attack": 50,
+            "health": 50,
+            "forgePoints": 75,
+            "rarity": "uncommon",
+            "box": "Insects"
+        },
+        "Caterpillar":
+        {
+            "image": "Insects Caterpillar B",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "uncommon"  
+        }
+    },
+    "rare":
+    {
+        "Dragonfly":
+        {
+            "image": "Insects Dragonfly",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "rare"  
+        },
+        "Dragonfly #2":
+        {
+            "image": "Insects Dragonfly B",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "rare"  
+        }
+    },
+    "super rare":
+    {
+        "Red Ant Soldier":
+        {
+            "image": "Insect Red Ant Knight",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "super rare"  
+        },
+        "Black Ant Soldier":
+        {
+            "image": "Insects Black Ant Knight",
+            "attack": 100,
+            "health": 50,
+            "forgePoints": 50,
+            "rarity": "super rare"  
+        }
+    }
+}
