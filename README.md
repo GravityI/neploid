@@ -1,5 +1,5 @@
 # neploid
-##### *My old projects regarding Discord Bots*
+##### *My unfinished Discord Bots*
 ![GitHub](https://img.shields.io/github/license/gravityi/neploid) ![Twitter Follow](https://img.shields.io/twitter/follow/peixoto_icaro?style=social)
 
 ## License
@@ -7,6 +7,8 @@
 The bot scripts are licensed under the MIT license. The assets for the Arkash bot were made by [Ækashics.](http://www.akashics.moe/)
 
 ## Project Description
+
+These are unfinished bots I made for fun.
 
 ### Neploid
 
@@ -22,7 +24,7 @@ The bot scripts are licensed under the MIT license. The assets for the Arkash bo
 
 ## Contributing
 
-These are discontinued projects until further notice. Feel free to use them as a base for your own projects and hit me up if you need any advice.
+These are discontinued projects. Feel free to use them as a base for your own projects and hit me up if you need any advice.
 
 ## Contact
 
